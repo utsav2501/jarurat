@@ -108,3 +108,10 @@ npm install
 npm start
 ```
 
+## Screenshots
+
+![Screenshot (198)](https://github.com/user-attachments/assets/fa4341f8-3a8a-4c4e-81fe-fd96e68413a4)
+
+![Screenshot (199)](https://github.com/user-attachments/assets/9cfdb3de-f9f9-40a3-8153-ff08db6d2d4b)
+
+![Screenshot (200)](https://github.com/user-attachments/assets/a12a756f-c5fd-4d34-9fd4-41ad1845ce0f)
