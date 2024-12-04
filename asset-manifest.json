@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jarurat/static/css/main.56eb79db.css",
+    "main.js": "/jarurat/static/js/main.17ab9607.js",
+    "static/js/453.50e408a5.chunk.js": "/jarurat/static/js/453.50e408a5.chunk.js",
+    "index.html": "/jarurat/index.html",
+    "main.56eb79db.css.map": "/jarurat/static/css/main.56eb79db.css.map",
+    "main.17ab9607.js.map": "/jarurat/static/js/main.17ab9607.js.map",
+    "453.50e408a5.chunk.js.map": "/jarurat/static/js/453.50e408a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56eb79db.css",
+    "static/js/main.17ab9607.js"
+  ]
+}
