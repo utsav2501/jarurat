@@ -1,0 +1,12 @@
+/* App.css */
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+  }
+  
+  @media (max-width: 768px) {
+    .carousel-item img {
+      height: 350px;
+    }
+  }
+  
